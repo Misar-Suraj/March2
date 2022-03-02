@@ -7,5 +7,7 @@ public class Class001
 	  System.out.println("hiii");
 	  System.out.println("hiiiii");
 	  System.out.println("hiiiii");
+	  System.out.println("hiiiii");
+	  System.out.println("hiiiii");
    }
 }
