@@ -6,6 +6,7 @@ public class LogicalPrograms
    {
       String a="sam";
       String b="mas";
+      String b="mas";
       
       
    }
